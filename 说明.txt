@@ -1,0 +1,3 @@
+written_digits是数据集，包含我处理得到的二级数据和储存的模型
+Final Project是算法实现
+Project Report同时包含word版本和pdf版本，内容一致
